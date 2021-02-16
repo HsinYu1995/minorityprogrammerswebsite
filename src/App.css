@@ -21,6 +21,7 @@
 .Category {
   color: #24b667;
   vertical-align: middle;
+  font-size: 25px;
 }
 .content1 {
   color: #ffffff;
@@ -63,5 +64,5 @@
   margin-top: -20px;
   color: #ffffff;
   padding-bottom: 3%;
-  font-size: 20px;
+  font-size: 25px;
 }
